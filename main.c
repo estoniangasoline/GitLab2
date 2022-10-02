@@ -1,10 +1,16 @@
 #include <stdio.h>
 
-void Rectangle(int size);
+int Rectangle(int len, int wid)
+{
+    return len * wid;
+}
 
 int main()
 {
     int x;
+    int y;
+    int result;
     scanf("%d", &x);
-    Rectangle(x);
+    scanf("%d", &y);
+    result = Rectangle(x, y);
 }
