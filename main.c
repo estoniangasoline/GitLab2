@@ -2,4 +2,9 @@
 
 void Rectangle(int size);
 
-void
+int main()
+{
+    int x;
+    scanf("%d", &x);
+    Rectangle(x);
+}
