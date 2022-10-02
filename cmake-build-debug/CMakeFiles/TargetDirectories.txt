@@ -1,0 +1,3 @@
+D:/Labs/SoftwareLabs/GeometryLabGit2/cmake-build-debug/CMakeFiles/GeometryLabGit2.dir
+D:/Labs/SoftwareLabs/GeometryLabGit2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Labs/SoftwareLabs/GeometryLabGit2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
