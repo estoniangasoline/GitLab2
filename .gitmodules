@@ -1,0 +1,3 @@
+[submodule "submodule_for_gitlab"]
+	path = submodule_for_gitlab
+	url = https://github.com/krllbrsf/submodule_for_gitlab
