@@ -2,7 +2,7 @@
 
 int Rectangle(int len, int wid)
 {
-    return len * wid;
+    return len * wid +1 -1 ;
 }
 
 int main()
